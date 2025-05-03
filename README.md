@@ -9,3 +9,4 @@ podstranky:
 5. Šampionát: popisuje jak fungují šampionáty pro týmy i jezdce
 6. O mně: Jak sem se k formuli 1 dostal, kdo sem (student), můj oblíbený tým apod.
 7. Právní informace
+8. O stránce: proč stránka existuje
