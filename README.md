@@ -1,4 +1,4 @@
-# 🏎️ F1 Průvodce pro Začátečníky
+# F1 Průvodce pro Začátečníky
 
 # F1 Průvodce pro Začátečníky
 
